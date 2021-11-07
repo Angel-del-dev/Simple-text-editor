@@ -1,2 +1,4 @@
-# Simple-text-editor
+# Simple text editor(Vanilla js)
+
+
  
